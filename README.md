@@ -103,7 +103,6 @@ To run this project locally, clone the repository and install the necessary depe
 ```bash
 git clone https://github.com/Prathamesh326/Predict-House-Prices.git
 cd Predict-House-Prices
-pip install -r requirements.txt
 ```
 
 Then, you can open the notebook and follow the steps to replicate the analysis.
